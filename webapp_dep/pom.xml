@@ -41,6 +41,7 @@
         <module>../../Vitro-languages/core/webapp</module>
         <module>../../Vitro-languages/fr_CA/webapp</module>
         <module>../../Vitro-languages/en_US/webapp</module>
+        <module>../../Vitro-languages/en_CA/webapp</module>
         <module>../../Vitro-languages/de_DE/webapp</module>
         <module>../../Vitro-languages/es/webapp</module>
         <module>../../Vitro-languages/pt_BR/webapp</module>
@@ -48,6 +49,7 @@
         <module>../../VIVO/webapp</module>
         <module>../../VIVO-languages/core/webapp</module>
         <module>../../VIVO-languages/fr_CA/webapp</module>
+        <module>../../VIVO-languages/en_CA/webapp</module>
         <module>../../VIVO-languages/en_US/webapp</module>
         <module>../../VIVO-languages/de_DE/webapp</module>
         <module>../../VIVO-languages/es/webapp</module>
